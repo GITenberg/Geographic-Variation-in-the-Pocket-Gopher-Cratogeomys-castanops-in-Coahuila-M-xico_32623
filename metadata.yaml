@@ -1,0 +1,33 @@
+_repo: Geographic-Variation-in-the-Pocket-Gopher-Cratogeomys-castanops-in-Coahuila-M-xico_32623
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Russell, Robert J.
+    gutenberg_agent_id: '34964'
+    url: http://www.gutenberg.org/2009/agents/34964
+  - agent_name: Baker, Rollin H. (Rollin Harold)
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '34893'
+    url: http://www.gutenberg.org/2009/agents/34893
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Pocket gophers'
+title: Geographic Variation in the Pocket Gopher, Cratogeomys castanops, in Coahuila,
+  México
+url: http://www.gutenberg.org/ebooks/32623
